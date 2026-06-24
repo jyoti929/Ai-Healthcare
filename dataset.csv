@@ -1,0 +1,11 @@
+fever,cough,headache,fatigue,disease
+1,1,1,1,Flu
+1,1,0,1,Cold
+0,0,1,1,Migraine
+1,0,1,0,Dengue
+0,1,0,1,Allergy
+1,1,1,0,Typhoid
+0,0,0,1,Weakness
+1,0,0,1,Viral Fever
+0,1,1,0,Sinusitis
+1,1,0,0,Infection
